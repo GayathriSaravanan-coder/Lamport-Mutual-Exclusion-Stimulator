@@ -2,7 +2,7 @@ LAMPORT MUTUAL EXCLUSION STIMULATOR
 
 An interactive, software-based simulation and experimentation environment for studying, visualizing, explaining, and verifying Lamport Mutual Exclusion in a distributed-process setting.
 
-Team: SYNSPHERE
+Author: Gayathri S
 Subject: Distributed Computing
 
 1. Project Overview
@@ -1236,7 +1236,7 @@ Explainability
 
 Verification
 
-The project was developed as a team project under the team name SYNSPHERE.
+The research, design, implementation, integration, experimentation, visualization, explainability, and verification work documented in this repository was carried out by Gayathri S.
 
 34. Project Significance
 
@@ -1348,29 +1348,11 @@ Rather than only showing whether a process enters the critical section, the simu
 
 This makes the project suitable for academic learning, experimentation, demonstrations, and deeper study of distributed mutual exclusion concepts.
 
-38. Team
-
-SYNSPHERE
-
-Member
-
-Role
+38. Author
 
 Gayathri S
 
-Team Leader
-
-Divyamithra
-
-Team Member
-
-Vishnuprasath
-
-Team Member
-
-Sivarao
-
-Team Member
+Role: Primary Researcher & Full-Stack Project Developer
 
 Project
 
